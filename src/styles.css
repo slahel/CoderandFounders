@@ -157,7 +157,7 @@ header {
   margin: 20px 20px;
 }
 
-#intro-external-links {
+.intro-external-links {
   display: block;
   margin: 15px 60px;
   text-align: center;
